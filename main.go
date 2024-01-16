@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"io/ioutil"
+	"io"
 	"os"
 )
 
@@ -16,7 +16,7 @@ func getFileBytes(fileName string) []byte {
 		fmt.Println("error opening file", err)
 	}
 
-	fileBytes, err := ioutil.ReadAll(f)
+	fileBytes, err := io.ReadAll(f)
 	if err != nil {
 		fmt.Println("error reading file", err)
 	}
