@@ -1,0 +1,5002 @@
+[
+    {
+        "timestamp": 1536051600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 189
+    },
+    {
+        "timestamp": 1536832800,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 124
+    },
+    {
+        "timestamp": 1538704800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 210
+    },
+    {
+        "timestamp": 1536202800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 88
+    },
+    {
+        "timestamp": 1536998400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 202
+    },
+    {
+        "timestamp": 1536728400,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 313
+    },
+    {
+        "timestamp": 1537531200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 178
+    },
+    {
+        "timestamp": 1538715600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 334
+    },
+    {
+        "timestamp": 1536796800,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 233
+    },
+    {
+        "timestamp": 1535673600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 93
+    },
+    {
+        "timestamp": 1538269200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 334
+    },
+    {
+        "timestamp": 1537056000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 185
+    },
+    {
+        "timestamp": 1537534800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 167
+    },
+    {
+        "timestamp": 1535720400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 305
+    },
+    {
+        "timestamp": 1538974800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 145
+    },
+    {
+        "timestamp": 1538038800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 159
+    },
+    {
+        "timestamp": 1538550000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 293
+    },
+    {
+        "timestamp": 1537408800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 297
+    },
+    {
+        "timestamp": 1537254000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 296
+    },
+    {
+        "timestamp": 1536523200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 279
+    },
+    {
+        "timestamp": 1538812800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 215
+    },
+    {
+        "timestamp": 1535896800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 239
+    },
+    {
+        "timestamp": 1537808400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 300
+    },
+    {
+        "timestamp": 1536076800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 259
+    },
+    {
+        "timestamp": 1537639200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 106
+    },
+    {
+        "timestamp": 1536130800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 260
+    },
+    {
+        "timestamp": 1537347600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 120
+    },
+    {
+        "timestamp": 1538553600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 253
+    },
+    {
+        "timestamp": 1536148800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 275
+    },
+    {
+        "timestamp": 1538420400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 161
+    },
+    {
+        "timestamp": 1535695200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 225
+    },
+    {
+        "timestamp": 1537462800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 303
+    },
+    {
+        "timestamp": 1537714800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 315
+    },
+    {
+        "timestamp": 1538845200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 246
+    },
+    {
+        "timestamp": 1537290000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 165
+    },
+    {
+        "timestamp": 1538582400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 95
+    },
+    {
+        "timestamp": 1535954400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 291
+    },
+    {
+        "timestamp": 1537970400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 247
+    },
+    {
+        "timestamp": 1539061200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 288
+    },
+    {
+        "timestamp": 1539036000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 203
+    },
+    {
+        "timestamp": 1537765200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 139
+    },
+    {
+        "timestamp": 1536390000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 252
+    },
+    {
+        "timestamp": 1538971200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 240
+    },
+    {
+        "timestamp": 1535932800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 199
+    },
+    {
+        "timestamp": 1538636400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 231
+    },
+    {
+        "timestamp": 1535821200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 137
+    },
+    {
+        "timestamp": 1537221600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 87
+    },
+    {
+        "timestamp": 1538470800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 208
+    },
+    {
+        "timestamp": 1535785200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 245
+    },
+    {
+        "timestamp": 1537149600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 154
+    },
+    {
+        "timestamp": 1537279200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 159
+    },
+    {
+        "timestamp": 1538427600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 134
+    },
+    {
+        "timestamp": 1538445600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 190
+    },
+    {
+        "timestamp": 1536141600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 216
+    },
+    {
+        "timestamp": 1535724000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 148
+    },
+    {
+        "timestamp": 1539057600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 269
+    },
+    {
+        "timestamp": 1537480800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 284
+    },
+    {
+        "timestamp": 1538215200,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 199
+    },
+    {
+        "timestamp": 1536109200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 231
+    },
+    {
+        "timestamp": 1538672400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 206
+    },
+    {
+        "timestamp": 1537725600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 272
+    },
+    {
+        "timestamp": 1537282800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 202
+    },
+    {
+        "timestamp": 1536368400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 153
+    },
+    {
+        "timestamp": 1537160400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 102
+    },
+    {
+        "timestamp": 1536080400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 183
+    },
+    {
+        "timestamp": 1536807600,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 202
+    },
+    {
+        "timestamp": 1538622000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 320
+    },
+    {
+        "timestamp": 1538776800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 118
+    },
+    {
+        "timestamp": 1538190000,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 91
+    },
+    {
+        "timestamp": 1538337600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 175
+    },
+    {
+        "timestamp": 1535968800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 207
+    },
+    {
+        "timestamp": 1538586000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 287
+    },
+    {
+        "timestamp": 1538157600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 182
+    },
+    {
+        "timestamp": 1536112800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 249
+    },
+    {
+        "timestamp": 1535788800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 134
+    },
+    {
+        "timestamp": 1536739200,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 220
+    },
+    {
+        "timestamp": 1538791200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 299
+    },
+    {
+        "timestamp": 1536519600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 248
+    },
+    {
+        "timestamp": 1538298000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 228
+    },
+    {
+        "timestamp": 1538643600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 191
+    },
+    {
+        "timestamp": 1537873200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 285
+    },
+    {
+        "timestamp": 1538665200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 279
+    },
+    {
+        "timestamp": 1536156000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 250
+    },
+    {
+        "timestamp": 1537581600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 97
+    },
+    {
+        "timestamp": 1538884800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 270
+    },
+    {
+        "timestamp": 1538773200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 290
+    },
+    {
+        "timestamp": 1538272800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 155
+    },
+    {
+        "timestamp": 1537084800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 140
+    },
+    {
+        "timestamp": 1537599600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 276
+    },
+    {
+        "timestamp": 1536026400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 328
+    },
+    {
+        "timestamp": 1536598800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 121
+    },
+    {
+        "timestamp": 1536220800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 103
+    },
+    {
+        "timestamp": 1538913600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 282
+    },
+    {
+        "timestamp": 1538046000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 226
+    },
+    {
+        "timestamp": 1539158400,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 239
+    },
+    {
+        "timestamp": 1537088400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 94
+    },
+    {
+        "timestamp": 1537624800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 148
+    },
+    {
+        "timestamp": 1537862400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 158
+    },
+    {
+        "timestamp": 1536836400,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 286
+    },
+    {
+        "timestamp": 1538262000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 225
+    },
+    {
+        "timestamp": 1537012800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 280
+    },
+    {
+        "timestamp": 1536195600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 260
+    },
+    {
+        "timestamp": 1538744400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 260
+    },
+    {
+        "timestamp": 1535713200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 206
+    },
+    {
+        "timestamp": 1535702400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 125
+    },
+    {
+        "timestamp": 1539165600,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 289
+    },
+    {
+        "timestamp": 1538593200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 152
+    },
+    {
+        "timestamp": 1537063200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 148
+    },
+    {
+        "timestamp": 1536343200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 253
+    },
+    {
+        "timestamp": 1535842800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 182
+    },
+    {
+        "timestamp": 1538787600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 269
+    },
+    {
+        "timestamp": 1538006400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 203
+    },
+    {
+        "timestamp": 1535698800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 195
+    },
+    {
+        "timestamp": 1536238800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 212
+    },
+    {
+        "timestamp": 1536426000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 170
+    },
+    {
+        "timestamp": 1537426800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 301
+    },
+    {
+        "timestamp": 1538546400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 263
+    },
+    {
+        "timestamp": 1538391600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 88
+    },
+    {
+        "timestamp": 1535950800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 315
+    },
+    {
+        "timestamp": 1537066800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 279
+    },
+    {
+        "timestamp": 1536534000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 207
+    },
+    {
+        "timestamp": 1537542000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 181
+    },
+    {
+        "timestamp": 1538820000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 303
+    },
+    {
+        "timestamp": 1537315200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 137
+    },
+    {
+        "timestamp": 1536480000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 307
+    },
+    {
+        "timestamp": 1537704000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 265
+    },
+    {
+        "timestamp": 1537110000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 221
+    },
+    {
+        "timestamp": 1537304400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 334
+    },
+    {
+        "timestamp": 1537225200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 201
+    },
+    {
+        "timestamp": 1538488800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 323
+    },
+    {
+        "timestamp": 1538175600,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 184
+    },
+    {
+        "timestamp": 1537257600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 296
+    },
+    {
+        "timestamp": 1537182000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 245
+    },
+    {
+        "timestamp": 1538740800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 248
+    },
+    {
+        "timestamp": 1536494400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 222
+    },
+    {
+        "timestamp": 1538164800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 335
+    },
+    {
+        "timestamp": 1537905600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 86
+    },
+    {
+        "timestamp": 1537657200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 91
+    },
+    {
+        "timestamp": 1536307200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 144
+    },
+    {
+        "timestamp": 1537884000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 301
+    },
+    {
+        "timestamp": 1537797600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 243
+    },
+    {
+        "timestamp": 1539021600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 230
+    },
+    {
+        "timestamp": 1536717600,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 218
+    },
+    {
+        "timestamp": 1536418800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 230
+    },
+    {
+        "timestamp": 1536624000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 331
+    },
+    {
+        "timestamp": 1537671600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 325
+    },
+    {
+        "timestamp": 1536084000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 212
+    },
+    {
+        "timestamp": 1538499600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 327
+    },
+    {
+        "timestamp": 1537077600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 253
+    },
+    {
+        "timestamp": 1537743600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 91
+    },
+    {
+        "timestamp": 1538784000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 230
+    },
+    {
+        "timestamp": 1537376400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 134
+    },
+    {
+        "timestamp": 1536066000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 169
+    },
+    {
+        "timestamp": 1537102800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 105
+    },
+    {
+        "timestamp": 1536177600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 89
+    },
+    {
+        "timestamp": 1538431200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 124
+    },
+    {
+        "timestamp": 1536087600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 321
+    },
+    {
+        "timestamp": 1536069600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 101
+    },
+    {
+        "timestamp": 1536584400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 104
+    },
+    {
+        "timestamp": 1538280000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 155
+    },
+    {
+        "timestamp": 1535605200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 149
+    },
+    {
+        "timestamp": 1537484400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 229
+    },
+    {
+        "timestamp": 1536562800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 225
+    },
+    {
+        "timestamp": 1538193600,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 304
+    },
+    {
+        "timestamp": 1536037200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 187
+    },
+    {
+        "timestamp": 1538395200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 173
+    },
+    {
+        "timestamp": 1538294400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 106
+    },
+    {
+        "timestamp": 1536706800,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 207
+    },
+    {
+        "timestamp": 1535900400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 139
+    },
+    {
+        "timestamp": 1537164000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 269
+    },
+    {
+        "timestamp": 1539169200,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 335
+    },
+    {
+        "timestamp": 1537779600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 124
+    },
+    {
+        "timestamp": 1538852400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 114
+    },
+    {
+        "timestamp": 1536850800,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 325
+    },
+    {
+        "timestamp": 1539032400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 166
+    },
+    {
+        "timestamp": 1536994800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 201
+    },
+    {
+        "timestamp": 1536674400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 99
+    },
+    {
+        "timestamp": 1537855200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 244
+    },
+    {
+        "timestamp": 1537459200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 242
+    },
+    {
+        "timestamp": 1538690400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 265
+    },
+    {
+        "timestamp": 1538982000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 299
+    },
+    {
+        "timestamp": 1535716800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 325
+    },
+    {
+        "timestamp": 1538978400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 261
+    },
+    {
+        "timestamp": 1537963200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 260
+    },
+    {
+        "timestamp": 1536930000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 259
+    },
+    {
+        "timestamp": 1538946000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 173
+    },
+    {
+        "timestamp": 1538442000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 107
+    },
+    {
+        "timestamp": 1538132400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 250
+    },
+    {
+        "timestamp": 1538510400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 130
+    },
+    {
+        "timestamp": 1536228000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 87
+    },
+    {
+        "timestamp": 1537131600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 130
+    },
+    {
+        "timestamp": 1537851600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 152
+    },
+    {
+        "timestamp": 1535641200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 196
+    },
+    {
+        "timestamp": 1536102000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 237
+    },
+    {
+        "timestamp": 1535961600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 253
+    },
+    {
+        "timestamp": 1538575200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 184
+    },
+    {
+        "timestamp": 1538182800,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 213
+    },
+    {
+        "timestamp": 1537124400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 264
+    },
+    {
+        "timestamp": 1535760000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 164
+    },
+    {
+        "timestamp": 1535918400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 224
+    },
+    {
+        "timestamp": 1538870400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 137
+    },
+    {
+        "timestamp": 1538683200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 165
+    },
+    {
+        "timestamp": 1538838000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 340
+    },
+    {
+        "timestamp": 1538964000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 278
+    },
+    {
+        "timestamp": 1537934400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 283
+    },
+    {
+        "timestamp": 1538406000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 313
+    },
+    {
+        "timestamp": 1537887600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 149
+    },
+    {
+        "timestamp": 1536040800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 201
+    },
+    {
+        "timestamp": 1537984800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 222
+    },
+    {
+        "timestamp": 1536552000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 114
+    },
+    {
+        "timestamp": 1537326000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 233
+    },
+    {
+        "timestamp": 1536879600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 215
+    },
+    {
+        "timestamp": 1538535600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 246
+    },
+    {
+        "timestamp": 1536966000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 89
+    },
+    {
+        "timestamp": 1538611200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 221
+    },
+    {
+        "timestamp": 1535824800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 247
+    },
+    {
+        "timestamp": 1538877600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 127
+    },
+    {
+        "timestamp": 1538935200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 202
+    },
+    {
+        "timestamp": 1537092000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 273
+    },
+    {
+        "timestamp": 1536919200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 302
+    },
+    {
+        "timestamp": 1537632000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 107
+    },
+    {
+        "timestamp": 1538726400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 301
+    },
+    {
+        "timestamp": 1537560000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 155
+    },
+    {
+        "timestamp": 1538823600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 255
+    },
+    {
+        "timestamp": 1536508800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 217
+    },
+    {
+        "timestamp": 1537830000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 340
+    },
+    {
+        "timestamp": 1537038000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 281
+    },
+    {
+        "timestamp": 1538748000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 308
+    },
+    {
+        "timestamp": 1538802000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 256
+    },
+    {
+        "timestamp": 1538902800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 308
+    },
+    {
+        "timestamp": 1539075600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 184
+    },
+    {
+        "timestamp": 1538240400,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 141
+    },
+    {
+        "timestamp": 1537927200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 310
+    },
+    {
+        "timestamp": 1538139600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 184
+    },
+    {
+        "timestamp": 1539043200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 340
+    },
+    {
+        "timestamp": 1537635600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 287
+    },
+    {
+        "timestamp": 1536516000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 200
+    },
+    {
+        "timestamp": 1538276400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 265
+    },
+    {
+        "timestamp": 1537833600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 259
+    },
+    {
+        "timestamp": 1536469200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 130
+    },
+    {
+        "timestamp": 1536490800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 281
+    },
+    {
+        "timestamp": 1537106400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 305
+    },
+    {
+        "timestamp": 1536746400,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 141
+    },
+    {
+        "timestamp": 1537200000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 336
+    },
+    {
+        "timestamp": 1535706000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 307
+    },
+    {
+        "timestamp": 1538640000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 223
+    },
+    {
+        "timestamp": 1538762400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 282
+    },
+    {
+        "timestamp": 1536642000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 86
+    },
+    {
+        "timestamp": 1535688000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 304
+    },
+    {
+        "timestamp": 1538208000,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 235
+    },
+    {
+        "timestamp": 1538074800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 117
+    },
+    {
+        "timestamp": 1539118800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 186
+    },
+    {
+        "timestamp": 1539151200,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 187
+    },
+    {
+        "timestamp": 1537812000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 96
+    },
+    {
+        "timestamp": 1536602400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 259
+    },
+    {
+        "timestamp": 1536620400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 320
+    },
+    {
+        "timestamp": 1538344800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 98
+    },
+    {
+        "timestamp": 1535965200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 280
+    },
+    {
+        "timestamp": 1539018000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 110
+    },
+    {
+        "timestamp": 1538316000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 189
+    },
+    {
+        "timestamp": 1538809200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 122
+    },
+    {
+        "timestamp": 1536163200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 246
+    },
+    {
+        "timestamp": 1535839200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 172
+    },
+    {
+        "timestamp": 1535616000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 230
+    },
+    {
+        "timestamp": 1535634000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 215
+    },
+    {
+        "timestamp": 1537740000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 275
+    },
+    {
+        "timestamp": 1538848800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 117
+    },
+    {
+        "timestamp": 1538096400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 254
+    },
+    {
+        "timestamp": 1537650000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 271
+    },
+    {
+        "timestamp": 1535878800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 97
+    },
+    {
+        "timestamp": 1538150400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 263
+    },
+    {
+        "timestamp": 1537642800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 104
+    },
+    {
+        "timestamp": 1537628400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 283
+    },
+    {
+        "timestamp": 1537891200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 314
+    },
+    {
+        "timestamp": 1535727600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 196
+    },
+    {
+        "timestamp": 1536570000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 307
+    },
+    {
+        "timestamp": 1537156800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 159
+    },
+    {
+        "timestamp": 1537174800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 172
+    },
+    {
+        "timestamp": 1537563600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 220
+    },
+    {
+        "timestamp": 1537322400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 320
+    },
+    {
+        "timestamp": 1538449200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 270
+    },
+    {
+        "timestamp": 1537466400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 230
+    },
+    {
+        "timestamp": 1536984000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 206
+    },
+    {
+        "timestamp": 1538290800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 150
+    },
+    {
+        "timestamp": 1537678800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 108
+    },
+    {
+        "timestamp": 1536408000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 195
+    },
+    {
+        "timestamp": 1536670800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 162
+    },
+    {
+        "timestamp": 1537578000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 335
+    },
+    {
+        "timestamp": 1537362000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 162
+    },
+    {
+        "timestamp": 1537909200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 152
+    },
+    {
+        "timestamp": 1536393600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 249
+    },
+    {
+        "timestamp": 1536742800,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 218
+    },
+    {
+        "timestamp": 1536735600,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 128
+    },
+    {
+        "timestamp": 1535922000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 114
+    },
+    {
+        "timestamp": 1539140400,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 216
+    },
+    {
+        "timestamp": 1536764400,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 91
+    },
+    {
+        "timestamp": 1536120000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 328
+    },
+    {
+        "timestamp": 1538733600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 93
+    },
+    {
+        "timestamp": 1536822000,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 293
+    },
+    {
+        "timestamp": 1536958800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 129
+    },
+    {
+        "timestamp": 1536526800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 166
+    },
+    {
+        "timestamp": 1537318800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 318
+    },
+    {
+        "timestamp": 1538506800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 323
+    },
+    {
+        "timestamp": 1537448400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 253
+    },
+    {
+        "timestamp": 1537239600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 310
+    },
+    {
+        "timestamp": 1537236000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 115
+    },
+    {
+        "timestamp": 1539050400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 273
+    },
+    {
+        "timestamp": 1538204400,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 141
+    },
+    {
+        "timestamp": 1537945200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 232
+    },
+    {
+        "timestamp": 1538211600,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 166
+    },
+    {
+        "timestamp": 1537866000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 185
+    },
+    {
+        "timestamp": 1538794800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 127
+    },
+    {
+        "timestamp": 1537585200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 110
+    },
+    {
+        "timestamp": 1538866800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 189
+    },
+    {
+        "timestamp": 1537592400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 198
+    },
+    {
+        "timestamp": 1536789600,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 230
+    },
+    {
+        "timestamp": 1539014400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 271
+    },
+    {
+        "timestamp": 1537506000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 262
+    },
+    {
+        "timestamp": 1537412400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 276
+    },
+    {
+        "timestamp": 1536004800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 209
+    },
+    {
+        "timestamp": 1535745600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 127
+    },
+    {
+        "timestamp": 1537192800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 240
+    },
+    {
+        "timestamp": 1538949600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 95
+    },
+    {
+        "timestamp": 1538647200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 302
+    },
+    {
+        "timestamp": 1537898400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 222
+    },
+    {
+        "timestamp": 1537477200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 102
+    },
+    {
+        "timestamp": 1535666400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 336
+    },
+    {
+        "timestamp": 1537405200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 295
+    },
+    {
+        "timestamp": 1536876000,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 336
+    },
+    {
+        "timestamp": 1537372800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 242
+    },
+    {
+        "timestamp": 1538625600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 297
+    },
+    {
+        "timestamp": 1535756400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 171
+    },
+    {
+        "timestamp": 1536278400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 216
+    },
+    {
+        "timestamp": 1539126000,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 286
+    },
+    {
+        "timestamp": 1536105600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 224
+    },
+    {
+        "timestamp": 1536462000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 226
+    },
+    {
+        "timestamp": 1537498800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 259
+    },
+    {
+        "timestamp": 1535814000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 195
+    },
+    {
+        "timestamp": 1537675200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 278
+    },
+    {
+        "timestamp": 1538305200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 117
+    },
+    {
+        "timestamp": 1536397200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 157
+    },
+    {
+        "timestamp": 1538899200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 275
+    },
+    {
+        "timestamp": 1538524800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 211
+    },
+    {
+        "timestamp": 1537614000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 200
+    },
+    {
+        "timestamp": 1536595200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 261
+    },
+    {
+        "timestamp": 1537218000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 127
+    },
+    {
+        "timestamp": 1536274800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 307
+    },
+    {
+        "timestamp": 1536775200,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 107
+    },
+    {
+        "timestamp": 1538200800,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 264
+    },
+    {
+        "timestamp": 1539108000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 274
+    },
+    {
+        "timestamp": 1537052400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 152
+    },
+    {
+        "timestamp": 1536854400,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 321
+    },
+    {
+        "timestamp": 1536332400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 302
+    },
+    {
+        "timestamp": 1537232400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 303
+    },
+    {
+        "timestamp": 1535623200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 311
+    },
+    {
+        "timestamp": 1538938800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 270
+    },
+    {
+        "timestamp": 1538881200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 281
+    },
+    {
+        "timestamp": 1536487200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 295
+    },
+    {
+        "timestamp": 1538424000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 268
+    },
+    {
+        "timestamp": 1537286400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 309
+    },
+    {
+        "timestamp": 1538917200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 146
+    },
+    {
+        "timestamp": 1536231600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 149
+    },
+    {
+        "timestamp": 1537502400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 273
+    },
+    {
+        "timestamp": 1537128000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 331
+    },
+    {
+        "timestamp": 1537095600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 108
+    },
+    {
+        "timestamp": 1537606800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 111
+    },
+    {
+        "timestamp": 1535864400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 115
+    },
+    {
+        "timestamp": 1537178400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 238
+    },
+    {
+        "timestamp": 1537790400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 280
+    },
+    {
+        "timestamp": 1536404400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 129
+    },
+    {
+        "timestamp": 1538712000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 253
+    },
+    {
+        "timestamp": 1536339600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 276
+    },
+    {
+        "timestamp": 1536692400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 205
+    },
+    {
+        "timestamp": 1535914800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 324
+    },
+    {
+        "timestamp": 1537837200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 114
+    },
+    {
+        "timestamp": 1535742000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 266
+    },
+    {
+        "timestamp": 1535792400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 156
+    },
+    {
+        "timestamp": 1538816400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 124
+    },
+    {
+        "timestamp": 1537210800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 86
+    },
+    {
+        "timestamp": 1538092800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 90
+    },
+    {
+        "timestamp": 1537750800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 163
+    },
+    {
+        "timestamp": 1536645600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 291
+    },
+    {
+        "timestamp": 1539147600,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 293
+    },
+    {
+        "timestamp": 1538827200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 203
+    },
+    {
+        "timestamp": 1538056800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 203
+    },
+    {
+        "timestamp": 1537243200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 315
+    },
+    {
+        "timestamp": 1538874000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 306
+    },
+    {
+        "timestamp": 1535997600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 252
+    },
+    {
+        "timestamp": 1538766000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 272
+    },
+    {
+        "timestamp": 1537754400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 123
+    },
+    {
+        "timestamp": 1537423200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 324
+    },
+    {
+        "timestamp": 1535817600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 173
+    },
+    {
+        "timestamp": 1539144000,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 324
+    },
+    {
+        "timestamp": 1538161200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 305
+    },
+    {
+        "timestamp": 1536314400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 333
+    },
+    {
+        "timestamp": 1537920000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 118
+    },
+    {
+        "timestamp": 1536577200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 243
+    },
+    {
+        "timestamp": 1538398800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 283
+    },
+    {
+        "timestamp": 1535590800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 87
+    },
+    {
+        "timestamp": 1538481600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 280
+    },
+    {
+        "timestamp": 1536915600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 145
+    },
+    {
+        "timestamp": 1537858800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 280
+    },
+    {
+        "timestamp": 1535655600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 287
+    },
+    {
+        "timestamp": 1539129600,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 257
+    },
+    {
+        "timestamp": 1537617600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 244
+    },
+    {
+        "timestamp": 1538020800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 101
+    },
+    {
+        "timestamp": 1538463600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 282
+    },
+    {
+        "timestamp": 1535940000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 268
+    },
+    {
+        "timestamp": 1535979600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 196
+    },
+    {
+        "timestamp": 1535738400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 311
+    },
+    {
+        "timestamp": 1538323200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 209
+    },
+    {
+        "timestamp": 1538719200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 119
+    },
+    {
+        "timestamp": 1535652000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 153
+    },
+    {
+        "timestamp": 1537999200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 304
+    },
+    {
+        "timestamp": 1536094800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 95
+    },
+    {
+        "timestamp": 1539183600,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 113
+    },
+    {
+        "timestamp": 1537588800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 121
+    },
+    {
+        "timestamp": 1538730000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 109
+    },
+    {
+        "timestamp": 1538737200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 200
+    },
+    {
+        "timestamp": 1539082800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 261
+    },
+    {
+        "timestamp": 1538755200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 94
+    },
+    {
+        "timestamp": 1536566400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 339
+    },
+    {
+        "timestamp": 1537520400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 97
+    },
+    {
+        "timestamp": 1535644800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 250
+    },
+    {
+        "timestamp": 1537045200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 208
+    },
+    {
+        "timestamp": 1538956800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 315
+    },
+    {
+        "timestamp": 1536019200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 288
+    },
+    {
+        "timestamp": 1537567200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 245
+    },
+    {
+        "timestamp": 1538676000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 205
+    },
+    {
+        "timestamp": 1538571600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 143
+    },
+    {
+        "timestamp": 1537668000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 166
+    },
+    {
+        "timestamp": 1538924400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 248
+    },
+    {
+        "timestamp": 1537804800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 183
+    },
+    {
+        "timestamp": 1539090000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 109
+    },
+    {
+        "timestamp": 1537570800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 128
+    },
+    {
+        "timestamp": 1538600400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 297
+    },
+    {
+        "timestamp": 1538992800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 292
+    },
+    {
+        "timestamp": 1536134400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 258
+    },
+    {
+        "timestamp": 1536033600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 206
+    },
+    {
+        "timestamp": 1538542800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 269
+    },
+    {
+        "timestamp": 1536498000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 170
+    },
+    {
+        "timestamp": 1538452800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 206
+    },
+    {
+        "timestamp": 1536001200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 239
+    },
+    {
+        "timestamp": 1538532000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 281
+    },
+    {
+        "timestamp": 1537444800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 161
+    },
+    {
+        "timestamp": 1538528400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 304
+    },
+    {
+        "timestamp": 1536415200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 116
+    },
+    {
+        "timestamp": 1537819200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 316
+    },
+    {
+        "timestamp": 1538085600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 302
+    },
+    {
+        "timestamp": 1536782400,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 155
+    },
+    {
+        "timestamp": 1536336000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 164
+    },
+    {
+        "timestamp": 1538942400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 207
+    },
+    {
+        "timestamp": 1538082000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 88
+    },
+    {
+        "timestamp": 1536843600,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 165
+    },
+    {
+        "timestamp": 1538330400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 100
+    },
+    {
+        "timestamp": 1536296400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 89
+    },
+    {
+        "timestamp": 1538362800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 131
+    },
+    {
+        "timestamp": 1538758800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 144
+    },
+    {
+        "timestamp": 1538154000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 303
+    },
+    {
+        "timestamp": 1537369200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 112
+    },
+    {
+        "timestamp": 1536699600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 332
+    },
+    {
+        "timestamp": 1538985600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 238
+    },
+    {
+        "timestamp": 1539162000,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 100
+    },
+    {
+        "timestamp": 1538668800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 154
+    },
+    {
+        "timestamp": 1535972400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 138
+    },
+    {
+        "timestamp": 1538146800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 304
+    },
+    {
+        "timestamp": 1537380000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 287
+    },
+    {
+        "timestamp": 1536022800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 160
+    },
+    {
+        "timestamp": 1536894000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 119
+    },
+    {
+        "timestamp": 1537912800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 89
+    },
+    {
+        "timestamp": 1538229600,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 183
+    },
+    {
+        "timestamp": 1538496000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 98
+    },
+    {
+        "timestamp": 1536829200,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 151
+    },
+    {
+        "timestamp": 1535670000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 337
+    },
+    {
+        "timestamp": 1537214400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 93
+    },
+    {
+        "timestamp": 1536210000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 316
+    },
+    {
+        "timestamp": 1538377200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 119
+    },
+    {
+        "timestamp": 1536447600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 267
+    },
+    {
+        "timestamp": 1537894800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 131
+    },
+    {
+        "timestamp": 1537401600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 293
+    },
+    {
+        "timestamp": 1536073200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 336
+    },
+    {
+        "timestamp": 1536991200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 229
+    },
+    {
+        "timestamp": 1537653600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 203
+    },
+    {
+        "timestamp": 1536588000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 228
+    },
+    {
+        "timestamp": 1535734800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 124
+    },
+    {
+        "timestamp": 1537142400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 165
+    },
+    {
+        "timestamp": 1538319600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 223
+    },
+    {
+        "timestamp": 1537099200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 95
+    },
+    {
+        "timestamp": 1535853600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 110
+    },
+    {
+        "timestamp": 1536904800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 258
+    },
+    {
+        "timestamp": 1538218800,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 262
+    },
+    {
+        "timestamp": 1538928000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 179
+    },
+    {
+        "timestamp": 1537995600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 208
+    },
+    {
+        "timestamp": 1537196400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 235
+    },
+    {
+        "timestamp": 1538841600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 246
+    },
+    {
+        "timestamp": 1538485200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 136
+    },
+    {
+        "timestamp": 1537574400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 160
+    },
+    {
+        "timestamp": 1536321600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 237
+    },
+    {
+        "timestamp": 1538805600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 168
+    },
+    {
+        "timestamp": 1536897600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 188
+    },
+    {
+        "timestamp": 1537596000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 187
+    },
+    {
+        "timestamp": 1538031600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 144
+    },
+    {
+        "timestamp": 1538308800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 246
+    },
+    {
+        "timestamp": 1537538400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 174
+    },
+    {
+        "timestamp": 1537365600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 224
+    },
+    {
+        "timestamp": 1535936400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 108
+    },
+    {
+        "timestamp": 1536440400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 150
+    },
+    {
+        "timestamp": 1538373600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 276
+    },
+    {
+        "timestamp": 1536559200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 210
+    },
+    {
+        "timestamp": 1536451200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 159
+    },
+    {
+        "timestamp": 1538118000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 296
+    },
+    {
+        "timestamp": 1536145200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 202
+    },
+    {
+        "timestamp": 1538416800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 233
+    },
+    {
+        "timestamp": 1537398000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 257
+    },
+    {
+        "timestamp": 1535893200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 119
+    },
+    {
+        "timestamp": 1536926400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 193
+    },
+    {
+        "timestamp": 1538186400,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 260
+    },
+    {
+        "timestamp": 1536933600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 279
+    },
+    {
+        "timestamp": 1537747200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 86
+    },
+    {
+        "timestamp": 1536771600,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 301
+    },
+    {
+        "timestamp": 1537916400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 93
+    },
+    {
+        "timestamp": 1537027200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 292
+    },
+    {
+        "timestamp": 1538679600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 215
+    },
+    {
+        "timestamp": 1536476400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 337
+    },
+    {
+        "timestamp": 1536246000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 256
+    },
+    {
+        "timestamp": 1536814800,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 266
+    },
+    {
+        "timestamp": 1537441200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 119
+    },
+    {
+        "timestamp": 1535587200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 156
+    },
+    {
+        "timestamp": 1538352000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 168
+    },
+    {
+        "timestamp": 1536400800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 211
+    },
+    {
+        "timestamp": 1537527600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 157
+    },
+    {
+        "timestamp": 1537394400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 286
+    },
+    {
+        "timestamp": 1535871600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 305
+    },
+    {
+        "timestamp": 1539054000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 155
+    },
+    {
+        "timestamp": 1536627600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 174
+    },
+    {
+        "timestamp": 1536890400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 260
+    },
+    {
+        "timestamp": 1538460000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 180
+    },
+    {
+        "timestamp": 1538341200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 232
+    },
+    {
+        "timestamp": 1535943600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 265
+    },
+    {
+        "timestamp": 1537002000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 271
+    },
+    {
+        "timestamp": 1537030800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 300
+    },
+    {
+        "timestamp": 1538892000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 242
+    },
+    {
+        "timestamp": 1537250400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 183
+    },
+    {
+        "timestamp": 1537844400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 238
+    },
+    {
+        "timestamp": 1535799600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 143
+    },
+    {
+        "timestamp": 1537700400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 182
+    },
+    {
+        "timestamp": 1537826400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 259
+    },
+    {
+        "timestamp": 1536634800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 276
+    },
+    {
+        "timestamp": 1536235200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 243
+    },
+    {
+        "timestamp": 1536091200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 226
+    },
+    {
+        "timestamp": 1536962400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 288
+    },
+    {
+        "timestamp": 1537135200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 145
+    },
+    {
+        "timestamp": 1535608800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 165
+    },
+    {
+        "timestamp": 1536944400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 147
+    },
+    {
+        "timestamp": 1536696000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 260
+    },
+    {
+        "timestamp": 1539007200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 165
+    },
+    {
+        "timestamp": 1539025200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 288
+    },
+    {
+        "timestamp": 1536638400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 241
+    },
+    {
+        "timestamp": 1538564400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 120
+    },
+    {
+        "timestamp": 1536609600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 254
+    },
+    {
+        "timestamp": 1539068400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 188
+    },
+    {
+        "timestamp": 1535598000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 314
+    },
+    {
+        "timestamp": 1535868000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 210
+    },
+    {
+        "timestamp": 1538697600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 207
+    },
+    {
+        "timestamp": 1537545600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 265
+    },
+    {
+        "timestamp": 1536253200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 225
+    },
+    {
+        "timestamp": 1536062400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 313
+    },
+    {
+        "timestamp": 1537736400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 241
+    },
+    {
+        "timestamp": 1537948800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 139
+    },
+    {
+        "timestamp": 1536436800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 339
+    },
+    {
+        "timestamp": 1537880400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 153
+    },
+    {
+        "timestamp": 1536458400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 151
+    },
+    {
+        "timestamp": 1537308000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 296
+    },
+    {
+        "timestamp": 1538722800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 330
+    },
+    {
+        "timestamp": 1538629200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 94
+    },
+    {
+        "timestamp": 1536372000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 261
+    },
+    {
+        "timestamp": 1536580800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 295
+    },
+    {
+        "timestamp": 1536483600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 167
+    },
+    {
+        "timestamp": 1537171200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 204
+    },
+    {
+        "timestamp": 1536292800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 284
+    },
+    {
+        "timestamp": 1535958000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 270
+    },
+    {
+        "timestamp": 1538596800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 281
+    },
+    {
+        "timestamp": 1539046800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 214
+    },
+    {
+        "timestamp": 1535925600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 180
+    },
+    {
+        "timestamp": 1537693200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 124
+    },
+    {
+        "timestamp": 1536116400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 87
+    },
+    {
+        "timestamp": 1538035200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 339
+    },
+    {
+        "timestamp": 1538632800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 243
+    },
+    {
+        "timestamp": 1538287200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 328
+    },
+    {
+        "timestamp": 1535832000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 194
+    },
+    {
+        "timestamp": 1535662800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 194
+    },
+    {
+        "timestamp": 1536908400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 144
+    },
+    {
+        "timestamp": 1536613200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 222
+    },
+    {
+        "timestamp": 1538010000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 254
+    },
+    {
+        "timestamp": 1535770800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 94
+    },
+    {
+        "timestamp": 1537390800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 170
+    },
+    {
+        "timestamp": 1537246800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 121
+    },
+    {
+        "timestamp": 1535857200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 318
+    },
+    {
+        "timestamp": 1538114400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 235
+    },
+    {
+        "timestamp": 1536861600,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 208
+    },
+    {
+        "timestamp": 1536688800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 272
+    },
+    {
+        "timestamp": 1537974000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 334
+    },
+    {
+        "timestamp": 1538920800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 89
+    },
+    {
+        "timestamp": 1535659200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 197
+    },
+    {
+        "timestamp": 1535752800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 290
+    },
+    {
+        "timestamp": 1536382800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 231
+    },
+    {
+        "timestamp": 1537758000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 90
+    },
+    {
+        "timestamp": 1538895600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 266
+    },
+    {
+        "timestamp": 1538179200,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 91
+    },
+    {
+        "timestamp": 1538053200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 89
+    },
+    {
+        "timestamp": 1538780400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 187
+    },
+    {
+        "timestamp": 1538856000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 157
+    },
+    {
+        "timestamp": 1538701200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 237
+    },
+    {
+        "timestamp": 1536030000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 322
+    },
+    {
+        "timestamp": 1538247600,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 172
+    },
+    {
+        "timestamp": 1537552800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 226
+    },
+    {
+        "timestamp": 1536123600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 148
+    },
+    {
+        "timestamp": 1537074000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 157
+    },
+    {
+        "timestamp": 1536541200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 163
+    },
+    {
+        "timestamp": 1536912000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 235
+    },
+    {
+        "timestamp": 1536724800,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 149
+    },
+    {
+        "timestamp": 1539097200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 256
+    },
+    {
+        "timestamp": 1535835600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 107
+    },
+    {
+        "timestamp": 1536825600,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 321
+    },
+    {
+        "timestamp": 1539086400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 234
+    },
+    {
+        "timestamp": 1536454800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 305
+    },
+    {
+        "timestamp": 1536548400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 99
+    },
+    {
+        "timestamp": 1537952400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 162
+    },
+    {
+        "timestamp": 1538283600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 225
+    },
+    {
+        "timestamp": 1537711200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 241
+    },
+    {
+        "timestamp": 1539072000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 176
+    },
+    {
+        "timestamp": 1538028000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 335
+    },
+    {
+        "timestamp": 1536188400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 277
+    },
+    {
+        "timestamp": 1535904000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 311
+    },
+    {
+        "timestamp": 1537358400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 338
+    },
+    {
+        "timestamp": 1536166800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 116
+    },
+    {
+        "timestamp": 1536811200,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 185
+    },
+    {
+        "timestamp": 1535976000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 192
+    },
+    {
+        "timestamp": 1537023600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 256
+    },
+    {
+        "timestamp": 1538334000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 246
+    },
+    {
+        "timestamp": 1536433200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 206
+    },
+    {
+        "timestamp": 1536098400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 335
+    },
+    {
+        "timestamp": 1537941600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 96
+    },
+    {
+        "timestamp": 1538355600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 224
+    },
+    {
+        "timestamp": 1539003600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 306
+    },
+    {
+        "timestamp": 1539093600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 280
+    },
+    {
+        "timestamp": 1537272000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 225
+    },
+    {
+        "timestamp": 1536714000,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 106
+    },
+    {
+        "timestamp": 1536721200,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 157
+    },
+    {
+        "timestamp": 1536465600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 208
+    },
+    {
+        "timestamp": 1538467200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 102
+    },
+    {
+        "timestamp": 1537034400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 318
+    },
+    {
+        "timestamp": 1537203600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 206
+    },
+    {
+        "timestamp": 1536501600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 228
+    },
+    {
+        "timestamp": 1535763600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 257
+    },
+    {
+        "timestamp": 1535929200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 218
+    },
+    {
+        "timestamp": 1537556400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 198
+    },
+    {
+        "timestamp": 1535875200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 156
+    },
+    {
+        "timestamp": 1538560800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 138
+    },
+    {
+        "timestamp": 1538301600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 121
+    },
+    {
+        "timestamp": 1538233200,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 125
+    },
+    {
+        "timestamp": 1538614800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 201
+    },
+    {
+        "timestamp": 1538254800,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 270
+    },
+    {
+        "timestamp": 1538172000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 270
+    },
+    {
+        "timestamp": 1538384400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 239
+    },
+    {
+        "timestamp": 1537682400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 106
+    },
+    {
+        "timestamp": 1535911200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 174
+    },
+    {
+        "timestamp": 1538110800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 125
+    },
+    {
+        "timestamp": 1536951600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 329
+    },
+    {
+        "timestamp": 1539100800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 334
+    },
+    {
+        "timestamp": 1536868800,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 150
+    },
+    {
+        "timestamp": 1537729200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 281
+    },
+    {
+        "timestamp": 1536012000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 128
+    },
+    {
+        "timestamp": 1538071200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 199
+    },
+    {
+        "timestamp": 1536354000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 151
+    },
+    {
+        "timestamp": 1538834400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 130
+    },
+    {
+        "timestamp": 1536055200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 132
+    },
+    {
+        "timestamp": 1538859600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 121
+    },
+    {
+        "timestamp": 1538650800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 285
+    },
+    {
+        "timestamp": 1537293600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 188
+    },
+    {
+        "timestamp": 1537732800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 109
+    },
+    {
+        "timestamp": 1537434000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 173
+    },
+    {
+        "timestamp": 1537016400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 174
+    },
+    {
+        "timestamp": 1535889600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 269
+    },
+    {
+        "timestamp": 1537495200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 130
+    },
+    {
+        "timestamp": 1538226000,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 243
+    },
+    {
+        "timestamp": 1538456400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 141
+    },
+    {
+        "timestamp": 1535947200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 270
+    },
+    {
+        "timestamp": 1536555600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 95
+    },
+    {
+        "timestamp": 1535986800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 243
+    },
+    {
+        "timestamp": 1538989200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 300
+    },
+    {
+        "timestamp": 1538089200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 91
+    },
+    {
+        "timestamp": 1537153200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 246
+    },
+    {
+        "timestamp": 1538751600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 167
+    },
+    {
+        "timestamp": 1536649200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 167
+    },
+    {
+        "timestamp": 1538002800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 88
+    },
+    {
+        "timestamp": 1539180000,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 300
+    },
+    {
+        "timestamp": 1536872400,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 238
+    },
+    {
+        "timestamp": 1536271200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 238
+    },
+    {
+        "timestamp": 1536656400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 296
+    },
+    {
+        "timestamp": 1536512400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 300
+    },
+    {
+        "timestamp": 1537333200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 232
+    },
+    {
+        "timestamp": 1538539200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 154
+    },
+    {
+        "timestamp": 1538931600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 186
+    },
+    {
+        "timestamp": 1536760800,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 145
+    },
+    {
+        "timestamp": 1536544800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 235
+    },
+    {
+        "timestamp": 1536249600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 320
+    },
+    {
+        "timestamp": 1535601600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 98
+    },
+    {
+        "timestamp": 1538107200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 203
+    },
+    {
+        "timestamp": 1535803200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 133
+    },
+    {
+        "timestamp": 1536685200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 221
+    },
+    {
+        "timestamp": 1537902000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 337
+    },
+    {
+        "timestamp": 1537794000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 128
+    },
+    {
+        "timestamp": 1536948000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 335
+    },
+    {
+        "timestamp": 1538654400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 300
+    },
+    {
+        "timestamp": 1537686000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 200
+    },
+    {
+        "timestamp": 1537610400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 293
+    },
+    {
+        "timestamp": 1536048000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 150
+    },
+    {
+        "timestamp": 1539122400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 109
+    },
+    {
+        "timestamp": 1538258400,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 198
+    },
+    {
+        "timestamp": 1536530400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 274
+    },
+    {
+        "timestamp": 1537603200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 309
+    },
+    {
+        "timestamp": 1535990400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 244
+    },
+    {
+        "timestamp": 1535907600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 122
+    },
+    {
+        "timestamp": 1538769600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 102
+    },
+    {
+        "timestamp": 1535781600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 269
+    },
+    {
+        "timestamp": 1535691600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 86
+    },
+    {
+        "timestamp": 1538064000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 302
+    },
+    {
+        "timestamp": 1537020000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 339
+    },
+    {
+        "timestamp": 1538251200,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 279
+    },
+    {
+        "timestamp": 1539028800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 194
+    },
+    {
+        "timestamp": 1536159600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 207
+    },
+    {
+        "timestamp": 1537470000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 186
+    },
+    {
+        "timestamp": 1536793200,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 254
+    },
+    {
+        "timestamp": 1537005600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 305
+    },
+    {
+        "timestamp": 1536318000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 94
+    },
+    {
+        "timestamp": 1538143200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 243
+    },
+    {
+        "timestamp": 1539176400,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 290
+    },
+    {
+        "timestamp": 1538388000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 180
+    },
+    {
+        "timestamp": 1536379200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 219
+    },
+    {
+        "timestamp": 1538244000,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 226
+    },
+    {
+        "timestamp": 1538402400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 210
+    },
+    {
+        "timestamp": 1536678000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 126
+    },
+    {
+        "timestamp": 1535630400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 266
+    },
+    {
+        "timestamp": 1538604000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 122
+    },
+    {
+        "timestamp": 1536922800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 93
+    },
+    {
+        "timestamp": 1536667200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 226
+    },
+    {
+        "timestamp": 1536170400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 185
+    },
+    {
+        "timestamp": 1537646400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 102
+    },
+    {
+        "timestamp": 1537549200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 303
+    },
+    {
+        "timestamp": 1537117200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 151
+    },
+    {
+        "timestamp": 1537801200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 199
+    },
+    {
+        "timestamp": 1536138000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 188
+    },
+    {
+        "timestamp": 1537416000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 318
+    },
+    {
+        "timestamp": 1539064800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 232
+    },
+    {
+        "timestamp": 1536973200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 247
+    },
+    {
+        "timestamp": 1535684400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 246
+    },
+    {
+        "timestamp": 1538125200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 305
+    },
+    {
+        "timestamp": 1536591600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 315
+    },
+    {
+        "timestamp": 1537048800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 123
+    },
+    {
+        "timestamp": 1537383600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 254
+    },
+    {
+        "timestamp": 1536015600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 279
+    },
+    {
+        "timestamp": 1536152400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 325
+    },
+    {
+        "timestamp": 1537189200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 205
+    },
+    {
+        "timestamp": 1536429600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 145
+    },
+    {
+        "timestamp": 1537722000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 199
+    },
+    {
+        "timestamp": 1536422400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 228
+    },
+    {
+        "timestamp": 1537923600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 155
+    },
+    {
+        "timestamp": 1538222400,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 293
+    },
+    {
+        "timestamp": 1536386400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 182
+    },
+    {
+        "timestamp": 1535731200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 179
+    },
+    {
+        "timestamp": 1538906400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 213
+    },
+    {
+        "timestamp": 1538492400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 112
+    },
+    {
+        "timestamp": 1539039600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 237
+    },
+    {
+        "timestamp": 1537707600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 309
+    },
+    {
+        "timestamp": 1536778800,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 142
+    },
+    {
+        "timestamp": 1536444000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 167
+    },
+    {
+        "timestamp": 1538618400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 205
+    },
+    {
+        "timestamp": 1537664400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 102
+    },
+    {
+        "timestamp": 1537009200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 243
+    },
+    {
+        "timestamp": 1536217200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 103
+    },
+    {
+        "timestamp": 1538438400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 153
+    },
+    {
+        "timestamp": 1535767200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 187
+    },
+    {
+        "timestamp": 1536663600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 331
+    },
+    {
+        "timestamp": 1535709600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 275
+    },
+    {
+        "timestamp": 1537120800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 222
+    },
+    {
+        "timestamp": 1535626800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 235
+    },
+    {
+        "timestamp": 1535619600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 117
+    },
+    {
+        "timestamp": 1537696800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 266
+    },
+    {
+        "timestamp": 1538661600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 288
+    },
+    {
+        "timestamp": 1537772400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 261
+    },
+    {
+        "timestamp": 1538013600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 336
+    },
+    {
+        "timestamp": 1537776000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 269
+    },
+    {
+        "timestamp": 1537509600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 281
+    },
+    {
+        "timestamp": 1537336800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 239
+    },
+    {
+        "timestamp": 1538100000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 309
+    },
+    {
+        "timestamp": 1537138800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 262
+    },
+    {
+        "timestamp": 1537300800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 198
+    },
+    {
+        "timestamp": 1536181200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 277
+    },
+    {
+        "timestamp": 1538830800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 265
+    },
+    {
+        "timestamp": 1538042400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 144
+    },
+    {
+        "timestamp": 1539115200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 137
+    },
+    {
+        "timestamp": 1538434800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 120
+    },
+    {
+        "timestamp": 1535810400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 231
+    },
+    {
+        "timestamp": 1537185600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 259
+    },
+    {
+        "timestamp": 1538103600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 212
+    },
+    {
+        "timestamp": 1535677200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 205
+    },
+    {
+        "timestamp": 1536058800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 214
+    },
+    {
+        "timestamp": 1536786000,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 230
+    },
+    {
+        "timestamp": 1535860800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 130
+    },
+    {
+        "timestamp": 1536573600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 303
+    },
+    {
+        "timestamp": 1536616800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 184
+    },
+    {
+        "timestamp": 1537621200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 158
+    },
+    {
+        "timestamp": 1538197200,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 250
+    },
+    {
+        "timestamp": 1537718400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 129
+    },
+    {
+        "timestamp": 1536757200,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 211
+    },
+    {
+        "timestamp": 1537513200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 112
+    },
+    {
+        "timestamp": 1538413200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 266
+    },
+    {
+        "timestamp": 1537268400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 119
+    },
+    {
+        "timestamp": 1537956000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 117
+    },
+    {
+        "timestamp": 1538517600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 218
+    },
+    {
+        "timestamp": 1537041600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 279
+    },
+    {
+        "timestamp": 1536537600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 143
+    },
+    {
+        "timestamp": 1537869600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 158
+    },
+    {
+        "timestamp": 1538478000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 172
+    },
+    {
+        "timestamp": 1536300000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 236
+    },
+    {
+        "timestamp": 1539111600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 265
+    },
+    {
+        "timestamp": 1538888400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 296
+    },
+    {
+        "timestamp": 1537930800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 190
+    },
+    {
+        "timestamp": 1536328800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 320
+    },
+    {
+        "timestamp": 1538503200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 255
+    },
+    {
+        "timestamp": 1535882400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 98
+    },
+    {
+        "timestamp": 1536606000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 260
+    },
+    {
+        "timestamp": 1536325200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 129
+    },
+    {
+        "timestamp": 1538607600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 190
+    },
+    {
+        "timestamp": 1539000000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 108
+    },
+    {
+        "timestamp": 1536969600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 124
+    },
+    {
+        "timestamp": 1538960400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 242
+    },
+    {
+        "timestamp": 1536940800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 327
+    },
+    {
+        "timestamp": 1536411600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 141
+    },
+    {
+        "timestamp": 1537452000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 229
+    },
+    {
+        "timestamp": 1538910000,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 307
+    },
+    {
+        "timestamp": 1536044400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 278
+    },
+    {
+        "timestamp": 1536350400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 311
+    },
+    {
+        "timestamp": 1538326800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 316
+    },
+    {
+        "timestamp": 1538359200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 145
+    },
+    {
+        "timestamp": 1538366400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 147
+    },
+    {
+        "timestamp": 1538128800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 230
+    },
+    {
+        "timestamp": 1537938000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 217
+    },
+    {
+        "timestamp": 1536937200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 287
+    },
+    {
+        "timestamp": 1537822800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 187
+    },
+    {
+        "timestamp": 1537786800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 287
+    },
+    {
+        "timestamp": 1537437600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 199
+    },
+    {
+        "timestamp": 1536858000,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 159
+    },
+    {
+        "timestamp": 1536375600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 92
+    },
+    {
+        "timestamp": 1537059600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 236
+    },
+    {
+        "timestamp": 1539136800,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 336
+    },
+    {
+        "timestamp": 1537966800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 201
+    },
+    {
+        "timestamp": 1537113600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 269
+    },
+    {
+        "timestamp": 1537840800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 238
+    },
+    {
+        "timestamp": 1537689600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 208
+    },
+    {
+        "timestamp": 1536267600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 338
+    },
+    {
+        "timestamp": 1539172800,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 100
+    },
+    {
+        "timestamp": 1535983200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 193
+    },
+    {
+        "timestamp": 1537488000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 212
+    },
+    {
+        "timestamp": 1538694000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 299
+    },
+    {
+        "timestamp": 1536206400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 277
+    },
+    {
+        "timestamp": 1536753600,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 113
+    },
+    {
+        "timestamp": 1539079200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 233
+    },
+    {
+        "timestamp": 1537329600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 233
+    },
+    {
+        "timestamp": 1535594400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 167
+    },
+    {
+        "timestamp": 1537167600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 104
+    },
+    {
+        "timestamp": 1537081200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 156
+    },
+    {
+        "timestamp": 1536901200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 224
+    },
+    {
+        "timestamp": 1537228800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 161
+    },
+    {
+        "timestamp": 1538521200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 103
+    },
+    {
+        "timestamp": 1536264000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 288
+    },
+    {
+        "timestamp": 1536980400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 281
+    },
+    {
+        "timestamp": 1538708400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 157
+    },
+    {
+        "timestamp": 1535612400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 305
+    },
+    {
+        "timestamp": 1536652800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 225
+    },
+    {
+        "timestamp": 1536310800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 306
+    },
+    {
+        "timestamp": 1536631200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 168
+    },
+    {
+        "timestamp": 1536883200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 182
+    },
+    {
+        "timestamp": 1537992000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 292
+    },
+    {
+        "timestamp": 1536976800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 193
+    },
+    {
+        "timestamp": 1536174000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 320
+    },
+    {
+        "timestamp": 1538060400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 160
+    },
+    {
+        "timestamp": 1536242400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 265
+    },
+    {
+        "timestamp": 1535796000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 326
+    },
+    {
+        "timestamp": 1536282000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 225
+    },
+    {
+        "timestamp": 1536199200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 138
+    },
+    {
+        "timestamp": 1537419600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 324
+    },
+    {
+        "timestamp": 1537660800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 154
+    },
+    {
+        "timestamp": 1536285600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 228
+    },
+    {
+        "timestamp": 1536260400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 210
+    },
+    {
+        "timestamp": 1536357600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 334
+    },
+    {
+        "timestamp": 1536768000,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 111
+    },
+    {
+        "timestamp": 1538078400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 154
+    },
+    {
+        "timestamp": 1538348400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 285
+    },
+    {
+        "timestamp": 1537455600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 251
+    },
+    {
+        "timestamp": 1537815600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 149
+    },
+    {
+        "timestamp": 1537491600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 316
+    },
+    {
+        "timestamp": 1537848000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 175
+    },
+    {
+        "timestamp": 1537524000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 149
+    },
+    {
+        "timestamp": 1536732000,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 146
+    },
+    {
+        "timestamp": 1538589600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 149
+    },
+    {
+        "timestamp": 1536361200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 116
+    },
+    {
+        "timestamp": 1538136000,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 107
+    },
+    {
+        "timestamp": 1538409600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 103
+    },
+    {
+        "timestamp": 1538474400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 150
+    },
+    {
+        "timestamp": 1538514000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 194
+    },
+    {
+        "timestamp": 1538967600,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 96
+    },
+    {
+        "timestamp": 1536256800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 186
+    },
+    {
+        "timestamp": 1539104400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 324
+    },
+    {
+        "timestamp": 1538798400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 316
+    },
+    {
+        "timestamp": 1536710400,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 206
+    },
+    {
+        "timestamp": 1536750000,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 235
+    },
+    {
+        "timestamp": 1536192000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 318
+    },
+    {
+        "timestamp": 1537988400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 201
+    },
+    {
+        "timestamp": 1537146000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 211
+    },
+    {
+        "timestamp": 1537070400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 98
+    },
+    {
+        "timestamp": 1535806800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 133
+    },
+    {
+        "timestamp": 1537977600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 260
+    },
+    {
+        "timestamp": 1536224400,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 100
+    },
+    {
+        "timestamp": 1538863200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 338
+    },
+    {
+        "timestamp": 1536804000,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 216
+    },
+    {
+        "timestamp": 1538953200,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 262
+    },
+    {
+        "timestamp": 1537207200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 281
+    },
+    {
+        "timestamp": 1538121600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 283
+    },
+    {
+        "timestamp": 1537387200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 240
+    },
+    {
+        "timestamp": 1538686800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 291
+    },
+    {
+        "timestamp": 1536847200,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 152
+    },
+    {
+        "timestamp": 1537473600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 215
+    },
+    {
+        "timestamp": 1537311600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 315
+    },
+    {
+        "timestamp": 1537761600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 316
+    },
+    {
+        "timestamp": 1538024400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 181
+    },
+    {
+        "timestamp": 1537768800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 304
+    },
+    {
+        "timestamp": 1536886800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 335
+    },
+    {
+        "timestamp": 1538568000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 148
+    },
+    {
+        "timestamp": 1536800400,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 88
+    },
+    {
+        "timestamp": 1536505200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 284
+    },
+    {
+        "timestamp": 1538168400,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 292
+    },
+    {
+        "timestamp": 1538578800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 216
+    },
+    {
+        "timestamp": 1537981200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 336
+    },
+    {
+        "timestamp": 1537275600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 310
+    },
+    {
+        "timestamp": 1538067600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 255
+    },
+    {
+        "timestamp": 1538370000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 301
+    },
+    {
+        "timestamp": 1537344000,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 92
+    },
+    {
+        "timestamp": 1536472800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 152
+    },
+    {
+        "timestamp": 1536008400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 326
+    },
+    {
+        "timestamp": 1535648400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 273
+    },
+    {
+        "timestamp": 1538996400,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 239
+    },
+    {
+        "timestamp": 1538658000,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 130
+    },
+    {
+        "timestamp": 1536184800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 136
+    },
+    {
+        "timestamp": 1535749200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 210
+    },
+    {
+        "timestamp": 1536303600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 184
+    },
+    {
+        "timestamp": 1536865200,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 174
+    },
+    {
+        "timestamp": 1537340400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 118
+    },
+    {
+        "timestamp": 1537783200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 326
+    },
+    {
+        "timestamp": 1537876800,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 262
+    },
+    {
+        "timestamp": 1535778000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 217
+    },
+    {
+        "timestamp": 1536346800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 294
+    },
+    {
+        "timestamp": 1536987600,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 172
+    },
+    {
+        "timestamp": 1538312400,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 304
+    },
+    {
+        "timestamp": 1535828400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 255
+    },
+    {
+        "timestamp": 1535680800,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 330
+    },
+    {
+        "timestamp": 1535774400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 164
+    },
+    {
+        "timestamp": 1537261200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 227
+    },
+    {
+        "timestamp": 1536818400,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 311
+    },
+    {
+        "timestamp": 1536364800,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 276
+    },
+    {
+        "timestamp": 1536703200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 253
+    },
+    {
+        "timestamp": 1536840000,
+        "version": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+        "query_time": 250
+    },
+    {
+        "timestamp": 1538557200,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 184
+    },
+    {
+        "timestamp": 1537297200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 92
+    },
+    {
+        "timestamp": 1536289200,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 253
+    },
+    {
+        "timestamp": 1535637600,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 273
+    },
+    {
+        "timestamp": 1538017200,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 254
+    },
+    {
+        "timestamp": 1536955200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 150
+    },
+    {
+        "timestamp": 1537264800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 254
+    },
+    {
+        "timestamp": 1537959600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 318
+    },
+    {
+        "timestamp": 1539010800,
+        "version": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+        "query_time": 324
+    },
+    {
+        "timestamp": 1537430400,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 122
+    },
+    {
+        "timestamp": 1535850000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 294
+    },
+    {
+        "timestamp": 1538049600,
+        "version": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4",
+        "query_time": 109
+    },
+    {
+        "timestamp": 1535846400,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 341
+    },
+    {
+        "timestamp": 1537354800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 197
+    },
+    {
+        "timestamp": 1536127200,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 99
+    },
+    {
+        "timestamp": 1536660000,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 317
+    },
+    {
+        "timestamp": 1538236800,
+        "version": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+        "query_time": 282
+    },
+    {
+        "timestamp": 1536213600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 216
+    },
+    {
+        "timestamp": 1538265600,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 233
+    },
+    {
+        "timestamp": 1537516800,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 294
+    },
+    {
+        "timestamp": 1539133200,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 164
+    },
+    {
+        "timestamp": 1536681600,
+        "version": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+        "query_time": 296
+    },
+    {
+        "timestamp": 1539154800,
+        "version": "0ade7c2cf97f75d009975f4d720d1fa6c19f4897",
+        "query_time": 206
+    },
+    {
+        "timestamp": 1535886000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 254
+    },
+    {
+        "timestamp": 1535994000,
+        "version": "356a192b7913b04c54574d18c28d46e6395428ab",
+        "query_time": 300
+    },
+    {
+        "timestamp": 1538380800,
+        "version": "902ba3cda1883801594b6e1b452790cc53948fda",
+        "query_time": 331
+    },
+    {
+        "timestamp": 1537351200,
+        "version": "1b6453892473a467d07372d45eb05abc2031647a",
+        "query_time": 324
+    }
+]
