@@ -1,0 +1,24 @@
+run:
+  skip-dirs:
+    - .artifacts
+    - .github
+    - deploy
+  go: '1.21'
+  timeout: 5m
+
+linters:
+  disable-all: true
+  enable:
+    - gosimple
+    - godox
+    - govet
+    - bodyclose
+    - cyclop
+    - gocyclo
+    - gofmt
+    - gosec
+    - misspell
+    - prealloc
+
+severity:
+  default-severity: error
