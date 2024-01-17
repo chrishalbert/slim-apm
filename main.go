@@ -23,6 +23,7 @@ func main() {
 	var healthchecks []Healthchecks
 	if err = json.Unmarshal(*fileBytes, &healthchecks); err != nil {
 		fmt.Printf("FAILED TO PARSE JSON: %v", err)
+		return
 	}
 
 	oms := NewSlimApp()

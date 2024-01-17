@@ -50,3 +50,46 @@ func TestAddVersionMetric(t *testing.T) {
 		assert.Equal(t, 2, len(app.versions[version].queryTime))
 	})
 }
+
+func TestAggregateSlimVersion(t *testing.T) {
+	var slimVersionScenarios = []struct {
+		testCase        string
+		shouldAggregate bool
+		queryTime       []uint16
+		expectedMin     uint16
+		expectedMax     uint16
+		expectedAvg     float32
+	}{
+		{
+			testCase:        "should not aggregate if flag set",
+			shouldAggregate: false,
+			queryTime:       []uint16{1, 2, 3},
+			expectedMin:     0,
+			expectedMax:     0,
+			expectedAvg:     0.0,
+		},
+		{
+			testCase:        "should aggregate if flag set",
+			shouldAggregate: true,
+			queryTime:       []uint16{1, 2, 3},
+			expectedMin:     1,
+			expectedMax:     3,
+			expectedAvg:     2.0,
+		},
+	}
+
+	for _, testCase := range slimVersionScenarios {
+		version := &SlimVersion{
+			shouldAggregate: testCase.shouldAggregate,
+			queryTime:       testCase.queryTime,
+		}
+		t.Run(testCase.testCase, func(t *testing.T) {
+			version.aggregate()
+			assert.Equal(t, testCase.expectedMin, version.min)
+			assert.Equal(t, testCase.expectedMax, version.max)
+			assert.Equal(t, testCase.expectedAvg, version.avg)
+			// After running aggregate(), the flag should be set to false
+			assert.False(t, version.shouldAggregate)
+		})
+	}
+}

@@ -26,7 +26,25 @@ func (version *SlimVersion) IncludeMetrics(metrics SlimMetric) {
 // func (version *SlimVersion) String() string
 
 // aggregate is called within any accessor to compute aggregate values
-// func (version *SlimVersion) aggregate()
+func (version *SlimVersion) aggregate() {
+	if !version.shouldAggregate {
+		return
+	}
+	var sum float32
+	count := 0
+	for _, time := range version.queryTime {
+		sum += float32(time)
+		count++
+		if version.min == 0.0 || time < version.min {
+			version.min = time
+		}
+		if version.max == 0.0 || time > version.max {
+			version.max = time
+		}
+	}
+	version.avg = sum / float32(count)
+	version.shouldAggregate = false
+}
 
 // SlimApp contains a slice of SlimVersions, along w/ the best and worst (deliverable 2.)
 type SlimApp struct {
@@ -58,4 +76,16 @@ func (app *SlimApp) AddVersionMetric(version string, metric SlimMetric) error {
 // func (app *SlimApp) GetReleaseHistory() map[uint32]SlimVersion
 
 // aggregate is called within the accessors to rebuild if needed
-// func (app *SlimApp) aggregate()
+func (app *SlimApp) aggregate() {
+	if !app.shouldAggregate {
+		return
+	}
+	for _, version := range app.versions {
+		if version.avg == 0.0 || version.avg < app.best.avg {
+			app.best = version
+		}
+		if version.avg == 0.0 || version.avg > app.worst.avg {
+			app.worst = version
+		}
+	}
+}
