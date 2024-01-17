@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 type SlimMetric struct {
 	Timestamp uint32 `json:"timestamp"`
 	QueryTime uint16 `json:"query_time"`
@@ -20,10 +22,14 @@ type SlimVersion struct {
 func (version *SlimVersion) IncludeMetrics(metrics SlimMetric) {
 	version.timestamps = append(version.timestamps, metrics.Timestamp)
 	version.queryTime = append(version.queryTime, metrics.QueryTime)
+	version.shouldAggregate = true
 }
 
 // Allows for outputing the details (deliverable 4.)
-// func (version *SlimVersion) String() string
+func (version SlimVersion) String() string {
+	version.aggregate()
+	return fmt.Sprintf("VERSION: %s\nmax: %d\nmin: %d\navg: %f", version.hash, version.max, version.min, version.avg)
+}
 
 // aggregate is called within any accessor to compute aggregate values
 func (version *SlimVersion) aggregate() {
@@ -70,7 +76,15 @@ func (app *SlimApp) AddVersionMetric(version string, metric SlimMetric) error {
 }
 
 // GetVersions returns a slice of SlimVersions (deliverable 1.)
-// func (app *SlimApp) GetVersions() []SlimVersion
+func (app *SlimApp) GetVersions() []SlimVersion {
+	app.aggregate()
+	cap := len(app.versions)
+	versions := make([]SlimVersion, 0, cap)
+	for _, version := range app.versions {
+		versions = append(versions, *version)
+	}
+	return versions
+}
 
 // GetReleaseHistory returns a Pointer to a map of Times pointing to SlimVersions (deliverable 3.)
 // func (app *SlimApp) GetReleaseHistory() map[uint32]SlimVersion

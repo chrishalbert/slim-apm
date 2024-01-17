@@ -166,3 +166,55 @@ func TestAggregateSlimApp(t *testing.T) {
 		})
 	}
 }
+
+func TestGetVersions(t *testing.T) {
+	var slimAppScenarios = []struct {
+		testCase        string
+		shouldAggregate bool
+		versions        map[string]*SlimVersion
+		expectedMin     uint16
+		expectedMax     uint16
+		expectedAvg     float32
+	}{
+		{
+			testCase: "should return a slice of aggregated versions",
+			versions: map[string]*SlimVersion{
+				"abc": {
+					hash:            "abc",
+					timestamps:      []uint32{2, 4, 6},
+					queryTime:       []uint16{2, 4, 6},
+					shouldAggregate: true,
+				},
+			},
+			expectedMin: 2,
+			expectedMax: 6,
+			expectedAvg: 4.0,
+		},
+	}
+	for _, testCase := range slimAppScenarios {
+		slimApp := &SlimApp{
+			versions:        testCase.versions,
+			shouldAggregate: true,
+		}
+
+		versions := slimApp.GetVersions()
+
+		t.Run(testCase.testCase, func(t *testing.T) {
+			assert.Equal(t, testCase.expectedMin, versions[0].min)
+			assert.Equal(t, testCase.expectedMax, versions[0].max)
+			assert.Equal(t, testCase.expectedAvg, versions[0].avg)
+			// After running aggregate(), the flag should be set to false
+			assert.False(t, slimApp.shouldAggregate)
+		})
+	}
+}
+
+func TestIncludeMetrics(t *testing.T) {
+	t.Run("should add metrics and set to aggregate", func(t *testing.T) {
+		version := &SlimVersion{}
+		version.IncludeMetrics(SlimMetric{Timestamp: 123, QueryTime: 456})
+		assert.Contains(t, version.timestamps, uint32(123))
+		assert.Contains(t, version.queryTime, uint16(456))
+		assert.True(t, version.shouldAggregate)
+	})
+}

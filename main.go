@@ -31,6 +31,9 @@ func main() {
 		oms.AddVersionMetric(healthcheck.Version, healthcheck.SlimMetric)
 	}
 
+	for _, version := range oms.GetVersions() {
+		fmt.Println(version)
+	}
 }
 
 func getFileBytes(fileName string) (*[]byte, error) {
