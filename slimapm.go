@@ -81,11 +81,13 @@ func (app *SlimApp) aggregate() {
 		return
 	}
 	for _, version := range app.versions {
-		if version.avg == 0.0 || version.avg < app.best.avg {
+		version.aggregate()
+		if app.best == nil || version.avg < app.best.avg {
 			app.best = version
 		}
-		if version.avg == 0.0 || version.avg > app.worst.avg {
+		if app.worst == nil || version.avg > app.worst.avg {
 			app.worst = version
 		}
 	}
+	app.shouldAggregate = false
 }

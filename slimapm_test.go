@@ -93,3 +93,76 @@ func TestAggregateSlimVersion(t *testing.T) {
 		})
 	}
 }
+
+func TestAggregateSlimApp(t *testing.T) {
+	var slimAppScenarios = []struct {
+		testCase        string
+		shouldAggregate bool
+		versions        map[string]*SlimVersion
+		expectedBest    string
+		expectedWorst   string
+	}{
+		{
+			testCase:        "should not aggregate if flag is false",
+			shouldAggregate: false,
+			versions: map[string]*SlimVersion{
+				"abc": {
+					hash:            "abc",
+					timestamps:      []uint32{2, 4, 6},
+					queryTime:       []uint16{2, 4, 6},
+					shouldAggregate: true,
+				},
+			},
+			expectedBest:  "",
+			expectedWorst: "",
+		},
+		{
+			testCase:        "should aggregate versions logically",
+			shouldAggregate: true,
+			versions: map[string]*SlimVersion{
+				"abc": {
+					hash:            "abc",
+					timestamps:      []uint32{1, 2, 3},
+					queryTime:       []uint16{1, 2, 3},
+					shouldAggregate: true,
+				},
+				"cde": {
+					hash:            "cde",
+					timestamps:      []uint32{4, 5, 6},
+					queryTime:       []uint16{4, 5, 6},
+					shouldAggregate: true,
+				},
+				"fgh": {
+					hash:            "fgh",
+					timestamps:      []uint32{7, 8, 9},
+					queryTime:       []uint16{7, 8, 9},
+					shouldAggregate: true,
+				},
+			},
+			expectedBest:  "abc",
+			expectedWorst: "fgh",
+		},
+	}
+
+	for _, testCase := range slimAppScenarios {
+		slimApp := &SlimApp{
+			versions:        testCase.versions,
+			shouldAggregate: testCase.shouldAggregate,
+		}
+
+		t.Run(testCase.testCase, func(t *testing.T) {
+			var actualBest, actualWorst string
+			slimApp.aggregate()
+			if slimApp.best != nil {
+				actualBest = slimApp.best.hash
+			}
+			if slimApp.worst != nil {
+				actualWorst = slimApp.worst.hash
+			}
+			assert.Equal(t, testCase.expectedBest, actualBest)
+			assert.Equal(t, testCase.expectedWorst, actualWorst)
+			// After running aggregate(), the flag should be set to false
+			assert.False(t, slimApp.shouldAggregate)
+		})
+	}
+}
