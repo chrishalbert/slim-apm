@@ -28,7 +28,7 @@ func (version *SlimVersion) IncludeMetrics(metrics SlimMetric) {
 // Allows for outputing the details (deliverable 4.)
 func (version SlimVersion) String() string {
 	version.aggregate()
-	return fmt.Sprintf("VERSION: %s\nmax: %d\nmin: %d\navg: %f", version.hash, version.max, version.min, version.avg)
+	return fmt.Sprintf("VERSION: %s\n  max: %d\n  min: %d\n  avg: %f", version.hash, version.max, version.min, version.avg)
 }
 
 // aggregate is called within any accessor to compute aggregate values
@@ -104,4 +104,9 @@ func (app *SlimApp) aggregate() {
 		}
 	}
 	app.shouldAggregate = false
+}
+
+func (app SlimApp) String() string {
+	app.aggregate()
+	return fmt.Sprintf("Best Release: %v\nWorst Release: %v", app.best.hash, app.worst.hash)
 }
