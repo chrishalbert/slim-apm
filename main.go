@@ -1,3 +1,4 @@
+// main uses the slimapm objects to analyze healthchecks and report on metrics
 package main
 
 import (
@@ -5,9 +6,11 @@ import (
 	"fmt"
 	"io"
 	"os"
+	"path/filepath"
 	"time"
 )
 
+// Healthchecks struct has a version and an associated slim metric
 type Healthchecks struct {
 	Version string `json:"version"`
 	SlimMetric
@@ -29,7 +32,10 @@ func main() {
 
 	oms := NewSlimApp()
 	for _, healthcheck := range healthchecks {
-		oms.AddVersionMetric(healthcheck.Version, healthcheck.SlimMetric)
+		err = oms.AddVersionMetric(healthcheck.Version, healthcheck.SlimMetric)
+		if err != nil {
+			fmt.Printf("ERROR ADDING %v: %v", healthcheck.Version, err)
+		}
 	}
 
 	fmt.Println("\nDeliverable 1: Aggregates By Version")
@@ -50,7 +56,7 @@ func main() {
 }
 
 func getFileBytes(fileName string) (*[]byte, error) {
-	f, err := os.Open(fileName)
+	f, err := os.Open(filepath.Clean(fileName))
 	if err != nil {
 		fmt.Println("error opening file", err)
 		return nil, err
