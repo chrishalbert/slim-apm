@@ -19,6 +19,13 @@ linters:
     - gosec
     - misspell
     - prealloc
+    - revive
 
 severity:
   default-severity: error
+
+issues:
+  exclude-use-default: false
+  include:
+    - EXC0013
+    - EXC0014
