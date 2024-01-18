@@ -32,7 +32,7 @@ func main() {
 	}
 
 	fmt.Println("\nDeliverable 1: Aggregates By Version")
-	fmt.Println("*************************************************")
+	fmt.Println("-------------------------------------------------")
 	for _, version := range oms.GetVersions() {
 		fmt.Println(version)
 	}
