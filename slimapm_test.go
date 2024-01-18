@@ -24,7 +24,8 @@ func TestAddVersionMetric(t *testing.T) {
 		_, ok := app.versions[version]
 		assert.False(t, ok)
 
-		app.AddVersionMetric(version, metric)
+		err := app.AddVersionMetric(version, metric)
+		assert.Nil(t, err)
 		assert.Nil(t, app.best)
 		assert.Nil(t, app.worst)
 		_, ok = app.versions[version]
@@ -36,7 +37,8 @@ func TestAddVersionMetric(t *testing.T) {
 		appVersionExisting, ok := app.versions[version]
 		assert.True(t, ok)
 
-		app.AddVersionMetric(version, metric)
+		err := app.AddVersionMetric(version, metric)
+		assert.Nil(t, err)
 		assert.Nil(t, app.best)
 		assert.Nil(t, app.worst)
 
@@ -246,11 +248,11 @@ func TestStringSlimVersion(t *testing.T) {
 func TestGetReleaseHistory(t *testing.T) {
 	t.Run("should return a map organized by initial version date", func(t *testing.T) {
 		app := NewSlimApp()
-		app.AddVersionMetric("abc", SlimMetric{Timestamp: 1})
-		app.AddVersionMetric("ghi", SlimMetric{Timestamp: 5})
-		app.AddVersionMetric("def", SlimMetric{Timestamp: 2})
-		app.AddVersionMetric("def", SlimMetric{Timestamp: 3})
-		app.AddVersionMetric("def", SlimMetric{Timestamp: 4})
+		_ = app.AddVersionMetric("abc", SlimMetric{Timestamp: 1})
+		_ = app.AddVersionMetric("ghi", SlimMetric{Timestamp: 5})
+		_ = app.AddVersionMetric("def", SlimMetric{Timestamp: 2})
+		_ = app.AddVersionMetric("def", SlimMetric{Timestamp: 3})
+		_ = app.AddVersionMetric("def", SlimMetric{Timestamp: 4})
 		releaseHistory := app.GetReleaseHistory()
 		assert.Equal(t, struct {
 			hash  string

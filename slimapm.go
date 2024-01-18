@@ -5,6 +5,7 @@ import (
 	"slices"
 )
 
+// SlimMetric represents a small metric that an app's version is embeds
 type SlimMetric struct {
 	Timestamp uint32 `json:"timestamp"`
 	QueryTime uint16 `json:"query_time"`
@@ -21,7 +22,7 @@ type SlimVersion struct {
 	shouldAggregate bool
 }
 
-// includeMetrics is used to append each Metric
+// IncludeMetrics is used to append each Metric
 func (version *SlimVersion) IncludeMetrics(metrics SlimMetric) {
 	version.timestamps = append(version.timestamps, metrics.Timestamp)
 	version.queryTime = append(version.queryTime, metrics.QueryTime)
@@ -68,7 +69,7 @@ func NewSlimApp() *SlimApp {
 	return &SlimApp{versions: make(map[string]*SlimVersion)}
 }
 
-// AddRaw will construct the SlimVersions slice and check for the best and worst
+// AddVersionMetric will construct the SlimVersions slice and check for the best and worst
 func (app *SlimApp) AddVersionMetric(version string, metric SlimMetric) error {
 	if _, ok := app.versions[version]; !ok {
 		app.versions[version] = &SlimVersion{hash: version}
@@ -81,8 +82,7 @@ func (app *SlimApp) AddVersionMetric(version string, metric SlimMetric) error {
 // GetVersions returns a slice of SlimVersions (deliverable 1.)
 func (app *SlimApp) GetVersions() []SlimVersion {
 	app.aggregate()
-	cap := len(app.versions)
-	versions := make([]SlimVersion, 0, cap)
+	versions := make([]SlimVersion, 0)
 	for _, version := range app.versions {
 		versions = append(versions, *version)
 	}
