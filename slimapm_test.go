@@ -218,3 +218,27 @@ func TestIncludeMetrics(t *testing.T) {
 		assert.True(t, version.shouldAggregate)
 	})
 }
+
+func TestStringSlimApp(t *testing.T) {
+	t.Run("should return the best and worst releases", func(t *testing.T) {
+		app := NewSlimApp()
+		app.best = &SlimVersion{shouldAggregate: false, hash: "thebest"}
+		app.worst = &SlimVersion{shouldAggregate: false, hash: "theworst"}
+		actual := app.String()
+		assert.Equal(t, "Best Release: thebest\nWorst Release: theworst", actual)
+	})
+}
+
+func TestStringSlimVersion(t *testing.T) {
+	t.Run("should return the best and worst releases", func(t *testing.T) {
+		version := &SlimVersion{
+			shouldAggregate: false,
+			hash:            "hash",
+			avg:             3.0,
+			min:             1,
+			max:             5,
+		}
+		actual := version.String()
+		assert.Equal(t, "VERSION: hash\n  max: 5\n  min: 1\n  avg: 3.00", actual)
+	})
+}
