@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"os"
+	"time"
 )
 
 type Healthchecks struct {
@@ -40,6 +41,12 @@ func main() {
 	fmt.Println("\nDeliverable 2: Release Overview")
 	fmt.Println("------------------------------------------------------")
 	fmt.Println(oms)
+
+	fmt.Println("\nDeliverable 3: Release History")
+	fmt.Println("------------------------------------------------------")
+	for _, version := range *oms.GetReleaseHistory() {
+		fmt.Printf("%v => %v\n", time.Unix(int64(version.start), 0), version.hash)
+	}
 }
 
 func getFileBytes(fileName string) (*[]byte, error) {

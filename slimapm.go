@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"slices"
+)
 
 type SlimMetric struct {
 	Timestamp uint32 `json:"timestamp"`
@@ -86,8 +89,46 @@ func (app *SlimApp) GetVersions() []SlimVersion {
 	return versions
 }
 
-// GetReleaseHistory returns a Pointer to a map of Times pointing to SlimVersions (deliverable 3.)
-// func (app *SlimApp) GetReleaseHistory() map[uint32]SlimVersion
+// GetReleaseHistory returns a Pointer to a map of epoch time to a string (deliverable 3.)
+func (app *SlimApp) GetReleaseHistory() *[]struct {
+	hash  string
+	start uint32
+} {
+	releaseMap := make(map[uint32]string)
+	timestamps := []uint32{}
+	// This is not efficient, but my assumption is this is a lesser operation
+	for _, slimVersion := range app.versions {
+		for _, timestamp := range slimVersion.timestamps {
+			timestamps = append(timestamps, timestamp)
+			releaseMap[timestamp] = slimVersion.hash
+		}
+	}
+
+	// Clean up if prior is the same value by looping through the
+	// ordered slice of timestamps
+	slices.Sort(timestamps)
+	var lastVersion string
+	releaseHistory := make([]struct {
+		hash  string
+		start uint32
+	}, 0)
+
+	// Using a traditional for loop to iterate array of uint32's
+	for i := 0; i < len(timestamps); {
+		timestamp := timestamps[i]
+		// If this is the first entry (lastVersion is empty), or we see
+		// a new version, we add that to our array
+		if lastVersion == "" || lastVersion != releaseMap[timestamp] {
+			releaseHistory = append(releaseHistory, struct {
+				hash  string
+				start uint32
+			}{hash: releaseMap[timestamp], start: timestamp})
+			lastVersion = releaseMap[timestamp]
+		}
+		i++
+	}
+	return &releaseHistory
+}
 
 // aggregate is called within the accessors to rebuild if needed
 func (app *SlimApp) aggregate() {

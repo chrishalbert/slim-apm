@@ -242,3 +242,28 @@ func TestStringSlimVersion(t *testing.T) {
 		assert.Equal(t, "VERSION: hash\n  max: 5\n  min: 1\n  avg: 3.00", actual)
 	})
 }
+
+func TestGetReleaseHistory(t *testing.T) {
+	t.Run("should return a map organized by initial version date", func(t *testing.T) {
+		app := NewSlimApp()
+		app.AddVersionMetric("abc", SlimMetric{Timestamp: 1})
+		app.AddVersionMetric("ghi", SlimMetric{Timestamp: 5})
+		app.AddVersionMetric("def", SlimMetric{Timestamp: 2})
+		app.AddVersionMetric("def", SlimMetric{Timestamp: 3})
+		app.AddVersionMetric("def", SlimMetric{Timestamp: 4})
+		releaseHistory := app.GetReleaseHistory()
+		assert.Equal(t, struct {
+			hash  string
+			start uint32
+		}{hash: "abc", start: 1}, (*releaseHistory)[0])
+		assert.Equal(t, struct {
+			hash  string
+			start uint32
+		}{hash: "def", start: 2}, (*releaseHistory)[1])
+		assert.Equal(t, struct {
+			hash  string
+			start uint32
+		}{hash: "ghi", start: 5}, (*releaseHistory)[2])
+		assert.Equal(t, 3, len(*releaseHistory))
+	})
+}
